@@ -26,7 +26,6 @@
     "@reach/router": "^1.3.4",
     "babel-eslint": "^10.1.0",
     "chart.js": "^3.7.1",
-    "format": "prettier --write \"**.*.{js,jsx,ts,tsx,json,md}\"",
     "gatsby": "^4.12.1",
     "gatsby-plugin-alias-imports": "^1.0.5",
     "gatsby-plugin-image": "^2.12.1",
